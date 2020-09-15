@@ -7,7 +7,7 @@
             },
             {
             "appID": "R3238U955B.jp.dev.denpanomi",
-            "paths": "NOT https://api.dev.nfhsuxdwd.denpanomi.net/api/twitter/login?redirect_uri=https://apps.dev.nfhsuxdwd.denpanomi.net"
+            "paths": "NOT https://api.dev.nfhsuxdwd.denpanomi.net/api/twitter/*"
             }
         }]
     }
