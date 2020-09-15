@@ -4,14 +4,7 @@
         "details": [{
             "appID": "R3238U955B.jp.dev.denpanomi",
             "paths": "NOT /"
-            },
-            {
-            "appID": "R3238U955B.jp.dev.denpanomi",
-            "paths": "/live-stream/*"
-            },
-            {
-            "appID": "R3238U955B.jp.dev.denpanomi",
-            "paths": "/second-party/*"
+            }
         }]
     }
 }
