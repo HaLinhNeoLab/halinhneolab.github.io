@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "R3238U955B.jp.dev.denpanomi",
-            "paths": ["NOT /api/twitter/*", "/app.denpanomi", "/live-stream/*", "/second-party/*"]
+            "paths": ["NOT /api/twitter/*"]
             }
         }]
     }
