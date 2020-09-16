@@ -3,11 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "R3238U955B.jp.dev.denpanomi",
-            "paths": "*"
-            },
-            {
-            "appID": "R3238U955B.jp.dev.denpanomi",
-            "paths": "NOT halinhneolab.github.io/api/twitter/*"
+            "paths": ["/app.denpanomi", "/live-stream/*", "/second-party/*", "NOT /api/twitter/*" ]
             }
         }]
     }
