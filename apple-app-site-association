@@ -4,7 +4,7 @@
         "details":
         [
             {
-                "appIDs": ["R3238U955B.jp.dev.denpanomi", R3238U955B.jp.dev.denpanomi.cast],
+                "appIDs": ["R3238U955B.jp.dev.denpanomi", "R3238U955B.jp.dev.denpanomi.cast"],
                 "components": [
                     {
                         "#": "/api/twitter/*",
@@ -16,7 +16,7 @@
                         "comment": "depanomi app"                        
                     },
                     {
-                        "/": "/live-stream/*"
+                        "/": "/live-stream/*",
                         "comment": "live stream"                        
                     }
                 ]
