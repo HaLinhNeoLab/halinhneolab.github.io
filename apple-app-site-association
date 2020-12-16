@@ -4,7 +4,7 @@
         "details":
         [
             {
-                "appIDs": ["R3238U955B.net.denpanomi.staging", "R3238U955B.net.denpanomi.staging.cast"],
+                "appIDs": ["R3238U955B.net.denpanomi.staging", "R3238U955B.net.denpanomi.staging.cast", "R3238U955B.jp.dev.denpanomi", "R3238U955B.jp.dev.denpanomi.cast"],
                 "components": [
                     {
                         "#": "/api/twitter/*",
