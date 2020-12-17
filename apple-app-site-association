@@ -4,7 +4,7 @@
         "details":
         [
             {
-                "appID": "R3238U955B.net.denpanomi.staging.cast",
+                "appID": "R3238U955B.jp.dev.denpanomi.cast",
                 "paths": ["/app.denpanomi", "/live-stream/*", "/second-party/*", "NOT /api/twitter/*" ]
             }
         ]
