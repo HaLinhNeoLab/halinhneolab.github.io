@@ -1,12 +1,19 @@
 {
     "applinks": {
-        "apps": [],
-        "details":
-        [
-            {
-                "appID": "R3238U955B.net.denpanomi.staging.cast",
-                "paths": ["/app.denpanomi", "/live-stream/*", "/second-party/*", "NOT /api/twitter/*" ]
+        "details": [
+           {
+                "appIDs": [ "R3238U955B.net.denpanomi.staging", "R3238U955B.net.denpanomi.staging.cast" ],
+                "components": [
+                    {
+                        "#": "/api/twitter/*",
+                        "exclude": true,
+                        "comment": "exclude twitter"
+                    },
+                    {
+                        "/": "/app.denpanomi",
+                        "comment": "denpanomi app"
+                    }
+                ]
             }
-        ]
     }
 }
