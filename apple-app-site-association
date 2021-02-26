@@ -4,28 +4,16 @@
         "details":
         [
             {
-                "appID": "R3238U955B.jp.dev.denpanomi",
-                "paths": ["/app.denpanomi", "/live-stream/*", "/second-party/*", "NOT /api/twitter/*" ]
+                "appID": "4W8UN4WR4H.jp.btechnologies.app",
+                "paths": ["/open-app/reset-pass"]
             },
             {
-                "appID": "R3238U955B.jp.dev.denpanomi.cast",
-                "paths": ["/app.denpanomi", "/live-stream/*", "/second-party/*", "NOT /api/twitter/*" ]
+                "appID": "4W8UN4WR4H.jp.btechnologies.app.stg",
+                "paths": ["/open-app/reset-pass"]
             },
             {
-                "appID": "R3238U955B.net.denpanomi.staging",
-                "paths": ["/app.denpanomi", "/live-stream/*", "/second-party/*", "NOT /api/twitter/*" ]
-            },
-            {
-                "appID": "R3238U955B.net.denpanomi.staging.cast",
-                "paths": ["/app.denpanomi", "/live-stream/*", "/second-party/*", "NOT /api/twitter/*" ]
-            },
-            {
-                "appID": "R3238U955B.net.denpanomi.production",
-                "paths": ["/app.denpanomi", "/live-stream/*", "/second-party/*", "NOT /api/twitter/*" ]
-            },
-            {
-                "appID": "R3238U955B.net.denpanomi.cast.production",
-                "paths": ["/app.denpanomi", "/live-stream/*", "/second-party/*", "NOT /api/twitter/*" ]
+                "appID": "4W8UN4WR4H.jp.btechnologies.app",
+                "paths": ["/open-app/reset-pass"]
             }
         ]
     }
