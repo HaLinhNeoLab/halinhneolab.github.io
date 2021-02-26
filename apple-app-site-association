@@ -4,16 +4,16 @@
         "details":
         [
             {
-                "appID": "4W8UN4WR4H.jp.btechnologies.app",
-                "paths": ["/open-app/reset-pass"]
+                "appID": "4W8UN4WR4H.jp.btechnologies.app.dev",
+                "paths": ["/open-app/reset-pass/*"]
             },
             {
                 "appID": "4W8UN4WR4H.jp.btechnologies.app.stg",
-                "paths": ["/open-app/reset-pass"]
+                "paths": ["/open-app/reset-pass/*"]
             },
             {
                 "appID": "4W8UN4WR4H.jp.btechnologies.app",
-                "paths": ["/open-app/reset-pass"]
+                "paths": ["/open-app/reset-pass/*"]
             }
         ]
     }
